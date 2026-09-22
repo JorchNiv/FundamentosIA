@@ -1,5 +1,5 @@
 # Fundamentos de Inteligencia Artificial
-#Jorge Nieves Flores
+# Jorge Nieves Flores
 
 Repositorio destinado al desarrollo y entrega de las actividades prácticas de la materia *Fundamentos de Inteligencia Artificial*.
 
